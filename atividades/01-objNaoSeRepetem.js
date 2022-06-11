@@ -1,4 +1,4 @@
-// preciso adicionar varios objetos de dados em um array, porém n posso repetir o username
+// preciso adicionar varios objetos de dados em um array, porém n posso repetir o id de nenhum usuário
 
 const users = [
   {
